@@ -1,13 +1,13 @@
-# simple-verticle-timeline
+# simple-vertical-timeline
 
 > Made with create-react-library
 
-[![NPM](https://img.shields.io/npm/v/simple-verticle-timeline.svg)](https://www.npmjs.com/package/simple-verticle-timeline) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/simple-vertical-timeline.svg)](https://www.npmjs.com/package/simple-vertical-timeline) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save simple-verticle-timeline
+npm install --save simple-vertical-timeline
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save simple-verticle-timeline
 ```jsx
 import React, { Component } from 'react'
 
-import Timeline from 'simple-verticle-timeline'
-import 'simple-verticle-timeline/dist/index.css'
+import Timeline from 'simple-vertical-timeline'
+import 'simple-vertical-timeline/dist/index.css'
 
 class Example extends Component {
   render() {

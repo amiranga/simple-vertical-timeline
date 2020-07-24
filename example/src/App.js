@@ -1,7 +1,7 @@
 import React from 'react'
 
-import TimelineComponent from 'simple-verticle-timeline'
-import 'simple-verticle-timeline/dist/index.css'
+import TimelineComponent from 'simple-vertical-timeline'
+import 'simple-vertical-timeline/dist/index.css'
 
 const App = () => {
   return <TimelineComponent values={
